@@ -1,0 +1,7 @@
+C:\Users\leona\OneDrive\Área de Trabalho\VIsual Studio\Exercicio D\Exercicio D\bin\Debug\Exercicio D.exe.config
+C:\Users\leona\OneDrive\Área de Trabalho\VIsual Studio\Exercicio D\Exercicio D\bin\Debug\Exercicio D.exe
+C:\Users\leona\OneDrive\Área de Trabalho\VIsual Studio\Exercicio D\Exercicio D\bin\Debug\Exercicio D.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\VIsual Studio\Exercicio D\Exercicio D\obj\Debug\Exercicio D.csprojAssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\VIsual Studio\Exercicio D\Exercicio D\obj\Debug\Exercicio D.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\VIsual Studio\Exercicio D\Exercicio D\obj\Debug\Exercicio D.exe
+C:\Users\leona\OneDrive\Área de Trabalho\VIsual Studio\Exercicio D\Exercicio D\obj\Debug\Exercicio D.pdb
