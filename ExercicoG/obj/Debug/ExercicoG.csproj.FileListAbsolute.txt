@@ -1,0 +1,7 @@
+c:\users\leona\source\repos\ExercicoG\ExercicoG\bin\Debug\ExercicoG.exe.config
+c:\users\leona\source\repos\ExercicoG\ExercicoG\bin\Debug\ExercicoG.exe
+c:\users\leona\source\repos\ExercicoG\ExercicoG\bin\Debug\ExercicoG.pdb
+c:\users\leona\source\repos\ExercicoG\ExercicoG\obj\Debug\ExercicoG.csprojAssemblyReference.cache
+c:\users\leona\source\repos\ExercicoG\ExercicoG\obj\Debug\ExercicoG.csproj.CoreCompileInputs.cache
+c:\users\leona\source\repos\ExercicoG\ExercicoG\obj\Debug\ExercicoG.exe
+c:\users\leona\source\repos\ExercicoG\ExercicoG\obj\Debug\ExercicoG.pdb

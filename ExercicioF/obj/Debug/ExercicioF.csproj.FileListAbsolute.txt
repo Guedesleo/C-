@@ -1,0 +1,7 @@
+C:\Users\leona\source\repos\ExercicioF\ExercicioF\bin\Debug\ExercicioF.exe.config
+C:\Users\leona\source\repos\ExercicioF\ExercicioF\bin\Debug\ExercicioF.exe
+C:\Users\leona\source\repos\ExercicioF\ExercicioF\bin\Debug\ExercicioF.pdb
+C:\Users\leona\source\repos\ExercicioF\ExercicioF\obj\Debug\ExercicioF.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\ExercicioF\ExercicioF\obj\Debug\ExercicioF.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\ExercicioF\ExercicioF\obj\Debug\ExercicioF.exe
+C:\Users\leona\source\repos\ExercicioF\ExercicioF\obj\Debug\ExercicioF.pdb
